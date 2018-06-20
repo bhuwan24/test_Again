@@ -1,3 +1,5 @@
+/*I am Modiying my file*/
+
 #include<stdio.h>
 #include<string.h>
 
@@ -25,8 +27,9 @@ main()
 		}
 	}
 	printf(" %s\n",s);
+	printf("hello...i have made some changes in the file.....\n");
 }
-
+/*I have modified it*/
 
 
 
